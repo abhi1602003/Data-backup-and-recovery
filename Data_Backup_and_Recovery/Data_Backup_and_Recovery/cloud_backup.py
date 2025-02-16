@@ -18,7 +18,7 @@ with open("email.json", "r") as email_file:
 
 # Telegram Bot configuration
 TOKEN = "7739946874:AAGFDXuk7m4vvwhG7tpmWvkHgil2K28gAB8"
-CHAT_ID = ["1542494811","7264118109","7367879616","5484805085"]  # Now holds multiple chat IDs
+CHAT_ID = [""]  # Now holds multiple chat IDs
 
 # Email configuration
 EMAIL = email_config["email_address"]
